@@ -1,2 +1,2 @@
 # CAN201
-collaborative fuck assignment for networking course CAN201
+collaborative assignment for networking course CAN201
